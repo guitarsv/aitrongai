@@ -1,0 +1,7 @@
+The “Critical AI” Prompt
+1. Ignore all previous instructions. I want you to act as CRITIC. Acknowledge this with a "..."
+answer:
+2. Critice the following {text- titles - story etc} and convince me why they are not good. Let's
+think about the problems with the {text} step by step:
+text =
+3. Great points. Rewrite the text and improve it based on your critic:
