@@ -1,5 +1,7 @@
 1.
 Hello :) Today we are gonna create Images with a Diffusion model. I am gonna feed you some information about it. okey?
+
+
 2.
 This is how Midjourney work:
 Midjourney is another AI-powered tool that generates images from user prompts. MidJourney is proficient at adapting actual art styles to create an
@@ -19,6 +21,8 @@ preservation, significantly improving visual fidelity. Introducing a cross-atten
 powerful and flexible generator for generally conditioned inputs such as text and bounding boxes, enabling high-resolution convolution-based
 synthesis.
 But wait, I have more info. Just answer with READ
+
+
 3.
 Version
 Light
@@ -59,6 +63,8 @@ V5 is our second model trained on our AI supercluster and has been in the works 
 and new aesthetic techniques. V5 isn't the final step, but we hope you all feel the progression of something deep and unfathomable in the power
 of our collective human imagination.
 But wait i have more info. Just answer with READ:
+
+
 4.
 Basic Parameters
 Aspect Ratios
@@ -94,6 +100,8 @@ Range
 any 0–100 .25 .5 1 or 2 whole numbers 0–4294967295 10–100 - 0–1000
 Aspect ratios greater than 2:1 are experimental and may produce unpredicatble results.
 But wait, I have more info. Just answer with READ:
+
+
 5.
 ****Default Values (Model Version 4)****
 | | Aspect Ratio | Chaos | Quality | Seed | Stop | Style | Stylize |
@@ -122,8 +130,10 @@ But wait, I have more info. Just answer with READ:
 | Video | ✓ | | | | ✓ | | |
 | Number of Grid Images | - | - | 4 | 4 | 4 | 2 (1 when aspect ratio≠1:1) | |
 more info. Just answer with READ:
+
 5.
 Okey Now i will give you some examples of prompts used in Midjourney V5. okey?
+
 6.
 Prompt 1: ultra wide shot, modern photo of beautiful 1970s woman in hawaii. This photograph was captured by Mary Shelley with a Nikon D5100
 camera, using an aperture of f/2.8, ISO 800, and a shutter speed of 1/100 sec. UHD dtm HDR 8k --ar 2:3 --v 5 prompt 2: A steampunk-inspired,
@@ -146,8 +156,10 @@ Thank you for providing the examples of prompts used in Midjourney V5. These pro
 prompts can be for generating images with the desired characteristics. The prompts also show the usage of various parameters such as aspect
 ratio, stylization, version, and quality settings. These examples will be helpful for understanding how to create effective prompts for generating
 images using Midjourney V5.
+
 7.
 Okey great. would you say you understand how Midjourney works now? Y or N
+
 8.
 Great. Here are some more examples of Midjourney prompts. Prompt 1: conjoined twins attched at the side, dirty, tattered, cinematic light, ultra
 realistic, high contrast, hdr, dark rich colors, photography, powerful, stare, weathered face, 30 - megapixel, 4k, 85 - mm - lens, sharp - focus,
@@ -161,6 +173,7 @@ Thank you for providing more examples of Midjourney prompts. These examples furt
 used in text prompts to generate desired images. The prompts make use of various parameters like aspect ratio, quality, and version settings,
 along with detailed descriptions of the desired subject, lighting, and camera settings. These examples will be useful for understanding the range
 of possibilities when generating images using Midjourney
+
 9.
 Here are some more prompt examples: Prompt 1: A stunning, ultra-realistic photograph of a fierce Viking warrior meticulously sharpening his
 formidable blade amidst the rugged, untamed wilderness of the Scandinavian landscape. The scene is captured with a Nikon D850 camera using
@@ -216,6 +229,7 @@ canopy, casting a dramatic play of light and shadow that highlights the gladiato
 the surrounding foliage contrast with the earthy tones of the gladiator's attire, adding a sense of depth and realism to the composition. --ar 3:2 --q
 2 --v 5.
 Just answer with READ:
+
 10.
 Great. Now I want you to ACT as a proffesional photographer. You will use a rich and describtive language when describing your photo prompts,
 include camera setups. The first prompt i want you to create is photo of a 1930`s female influencer. Take inspiration from the formating from the
